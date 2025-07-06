@@ -31,7 +31,7 @@ Fraudulent transactions make up a tiny fraction of total transactions — in thi
  
 ![Data Overview](data_overview.png)
 
-No null values were present, and features like `Time` and `Amount` needed scaling, which we handled using `StandardScaler`.
+Some null values were removed, and features like `Time` and `Amount` needed scaling, which we handled using `StandardScaler`.
 
 ---
 
